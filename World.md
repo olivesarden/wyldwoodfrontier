@@ -8,7 +8,7 @@ Where the fields meet the Forest. Where the caverns meet the sky. Where the rive
 
 tl;dr: this campaign is a fantasy sandbox SWADE game with a heavy focus on political intrigue. Magitech, eldritch fae, nobility, and unconventional fantasy creatures will all have a heavy presence.
 
-The Wyrdwood Frontier is a loose union of city-states established as a compromise between the [Dawnmark Imperium](Organizations/Factions/Dawnmark%20Imperium.md) and the [Sunless Fae](Organizations/Factions/Sunless%20Fae.md) of the [Surfless Sea](Locations/Surfless%20Sea.md). The Imperials would not limit or tax trade from upriver into the pitch-dark forest of the Surfless Sea, and the Sunless Fae would not prevent the harvesting of brightbulbs from within the Sea, nor the felling of the Great Trees at the edge of the Sea.
+The Wyrdwood Frontier is a loose union of city-states established as a compromise between the [Dawnmark Imperium](Dawnmark%20Imperium.md) and the [Sunless Fae](Organizations/Factions/Sunless%20Fae.md) of the [Surfless Sea](Locations/Surfless%20Sea.md). The Imperials would not limit or tax trade from upriver into the pitch-dark forest of the Surfless Sea, and the Sunless Fae would not prevent the harvesting of brightbulbs from within the Sea, nor the felling of the Great Trees at the edge of the Sea.
 
 In practise, this makes the Frontier a region of perilous balance - the grand industries and magitech of the Dawnmark to the west, the terrifying eldritch forest of the Surfless Sea to the east, the unyielding forgehalls of the undying dwarven clans in the mountains above and the maze-like warrens of the caverns below. It is a place of great opportunity, and the site of many tragic failures.
 
