@@ -105,8 +105,7 @@
               "title": "Dawnmark Imperium"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "999ddcae685e83cf",
@@ -280,8 +279,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a019813d41239f50",
+  "active": "020a06892a76876a",
   "lastOpenFiles": [
+    "Organizations/Factions/Dawnmark Imperium.md",
     "public-docs/Pitch.md",
     "Gemfile.lock",
     "Gemfile",
@@ -296,7 +296,6 @@
     "_site/assets/main.css",
     "Pitch.md",
     "public-docs/_site/assets/minima-social-icons.svg",
-    "Organizations/Factions/Dawnmark Imperium.md",
     "Organizations/Factions/Sunless Fae.md",
     "Organizations/Factions/Advisory Council.md",
     "Notes/Templates/File Template.md",

@@ -19,6 +19,7 @@ group :jekyll_plugins do
   gem "csv"
   gem "webrick"
   gem "jekyll-wikirefs"
+  gem "jekyll-relative-links"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
